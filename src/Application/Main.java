@@ -105,6 +105,7 @@ public class Main {
 
                 //ATRIBUINDO DADOS
                 validaT.setNumero(numero);
+
                 
                 //EXIBIR DADOS
                 validaT.validaTipo();
